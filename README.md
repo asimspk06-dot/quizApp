@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Quiz App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img width="803" height="602" alt="image" src="https://github.com/user-attachments/assets/8ba8e870-7d45-4c44-b64a-2bcd71955b0f" />
 
 ## Available Scripts
 
